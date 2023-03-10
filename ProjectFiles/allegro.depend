@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1605271382 source:c:\users\berk\documents\coding\allegro\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<float.h>
+	<graphics.h>
+	<conio.h>
+	<time.h>
+
