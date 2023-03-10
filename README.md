@@ -16,4 +16,4 @@ Ekran 640x480 modunda calisiyor yani koordinat sisteminin orjini (320,240) nokta
   |            |           |
   |            |           |
 (0,480)-----------------(640,480)
-a
+
